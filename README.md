@@ -1,5 +1,8 @@
 # Passenger V14 Public Bots
 
+[Eski](https://github.com/MODLOFF/v14-public) halini kullanıp geliştirmek isteyenler bakabilir.
+
+
 Artık bot yapma işinden sıkıldığım için işime ara vermeyi düşünüyorum.
 
 Botlarıma gelecek olursak diğer botcu arkadaşlarımın/abilerimin altyapıları ile bir farkı yoktur onlardada klasik komutlar varsa bendede aynı komutlar vardır. Bir tek yapay zeka(self hesapla aynı sunucularda ise isimini yaşını cinsiyetini gösteren sistem) ekledim onuda içinde linki ile paylaşıcam.
