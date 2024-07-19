@@ -17,4 +17,4 @@ Altyapının boş halini [buraya](https://github.com/acarfx/v14-temiz-altyapi) t
 
 Cálmate, estaré aquí pronto.
 
-Güncelleme Tarihi: 15.07.2024 Pazartesi
+Güncelleme Tarihi: 19.07.2024 Cuma
